@@ -1,0 +1,3 @@
+[submodule "depthclientui"]
+	path = depthclientui
+	url = git@bitbucket.org:alskouskuki/depthclientui.git
