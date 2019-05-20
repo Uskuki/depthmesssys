@@ -1,0 +1,5 @@
+C:\Users\dixBlack\source\repos\DepthMessageServer\DEPTHMODEL\bin\Debug\netcoreapp2.1\DEPTHMODEL.deps.json
+C:\Users\dixBlack\source\repos\DepthMessageServer\DEPTHMODEL\bin\Debug\netcoreapp2.1\DEPTHMODEL.dll
+C:\Users\dixBlack\source\repos\DepthMessageServer\DEPTHMODEL\obj\Debug\netcoreapp2.1\DEPTHMODEL.csproj.CoreCompileInputs.cache
+C:\Users\dixBlack\source\repos\DepthMessageServer\DEPTHMODEL\obj\Debug\netcoreapp2.1\DEPTHMODEL.AssemblyInfoInputs.cache
+C:\Users\dixBlack\source\repos\DepthMessageServer\DEPTHMODEL\obj\Debug\netcoreapp2.1\DEPTHMODEL.AssemblyInfo.cs

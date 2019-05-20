@@ -1,0 +1,5 @@
+C:\Users\dixBlack\source\repos\DepthMessageServer\DE.DATABASELAYER.INFRASTRUCTURE\bin\Debug\netcoreapp2.1\DE.DATABASELAYER.INFRASTRUCTURE.deps.json
+C:\Users\dixBlack\source\repos\DepthMessageServer\DE.DATABASELAYER.INFRASTRUCTURE\bin\Debug\netcoreapp2.1\DE.DATABASELAYER.INFRASTRUCTURE.dll
+C:\Users\dixBlack\source\repos\DepthMessageServer\DE.DATABASELAYER.INFRASTRUCTURE\obj\Debug\netcoreapp2.1\DE.DATABASELAYER.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\dixBlack\source\repos\DepthMessageServer\DE.DATABASELAYER.INFRASTRUCTURE\obj\Debug\netcoreapp2.1\DE.DATABASELAYER.INFRASTRUCTURE.AssemblyInfoInputs.cache
+C:\Users\dixBlack\source\repos\DepthMessageServer\DE.DATABASELAYER.INFRASTRUCTURE\obj\Debug\netcoreapp2.1\DE.DATABASELAYER.INFRASTRUCTURE.AssemblyInfo.cs
